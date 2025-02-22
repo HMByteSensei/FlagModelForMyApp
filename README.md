@@ -1,6 +1,6 @@
 # Animated Flag in Blender 🏳️
 
-This project features an **animated flag** created in **Blender** that I made in order to use it in [EduAugmentedReality](https://github.com/HMByteSensei/EduAugmentedReality). Whole project was created as part of the Computer Graphics course.
+This project features an **animated flag** made in **Blender** that I made in order to use it in [EduAugmentedReality](https://github.com/HMByteSensei/EduAugmentedReality). Whole project was created as part of the Computer Graphics course.
 
 ## 🛠️ Features  
 - **Cloth physics simulation** for natural waving motion.  
